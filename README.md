@@ -32,7 +32,7 @@ A system to track daily user activity with an admin dashboard for visualization.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/shashikant190/usercount-gardencraft.git
+git clone https://github.com/JyotirgamaySolutions/usergarden.git
 cd usercount-gardencraft
 ```
 2. Install dependencies:
