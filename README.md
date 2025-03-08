@@ -55,5 +55,5 @@ Common issues:
 <p>Empty dashboard: Check server logs and userLogs.txt format</p>
 <p>CORS errors: Verify middleware setup in server.js</p>
 
-**Maintained by:** [Shashikant Maurya](https://github.com/shashikant190) & [Suraj Ganeshpure](https://github.com/surajadmin)  
-**Report Issues:** [GitHub Issues](https://github.com/shashikant190/usercount-gardencraft/issues)
+**Maintained by:** [Shashikant Maurya](https://github.com/shashikant190)  
+
